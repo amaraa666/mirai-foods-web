@@ -172,7 +172,7 @@ export default function Home() {
         </Section>
         <Section id="contact" title="Get In Touch">
           <div className="text-gray-400 space-y-4">
-            <p>Email: amiamaraa6@gmail.com</p>
+            <p>Email: amiamaraa66@gmail.com</p>
             
             <p>Location: Ulaanbaatar, Mongolia</p>
           </div>
